@@ -61,7 +61,7 @@
 
 ### **📢 Let's Connect!**
 💡 I’m always open to collaborating on **AI, full-stack projects, or innovative experiments**.  
-📩 Feel free to **reach out** via [LinkedIn](www.linkedin.com/in/tamanna-khare-81b858196) or [Email](mailto:tamannakhare1245@gmail.com)!  
+📩 Feel free to **reach out** via [LinkedIn](https://www.linkedin.com/in/tamanna-khare-81b858196) or [Email](mailto:tamannakhare1245@gmail.com)!  
 
 ---
 
