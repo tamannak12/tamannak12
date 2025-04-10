@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tamanna! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-  <a href="www.linkedin.com/in/tamanna-khare-81b858196" target="_blank">
+  <a href="https://www.linkedin.com/in/tamanna-khare-81b858196" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:tamannakhare1245@gmail.com">
