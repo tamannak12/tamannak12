@@ -26,7 +26,7 @@
 
 ### **📊 GitHub Stats**
 <div align="center">
-  
+
   <!-- Row 1: Streak -->
   <p>
     <a href="https://github.com/tamannak12/github-readme-streak-stats">
@@ -35,9 +35,9 @@
            src="https://github-readme-streak-stats-eight.vercel.app/?user=tamannak12&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
   </p>
-  
+
   <!-- Row 2: Stats and Languages side by side -->
-  <p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="tamannak12's Github Stats" 
            src="https://github-readme-stats.vercel.app/api/?username=tamannak12&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
@@ -46,10 +46,10 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="tamannak12's Top Languages" 
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamannak12&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
-           height="192px"/>
+           height="140px"/>
     </a>
-  </p>
-  
+  </div>
+
   <!-- Row 3: Graph full width -->
   <p>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
