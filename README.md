@@ -25,6 +25,8 @@
 ---
 
 ### **📊 GitHub Stats**
+<!-- GitHub Readme Stats Section -->
+
 <div align="center">
 
   <!-- Row 1: Streak -->
@@ -36,7 +38,7 @@
     </a>
   </p>
 
-  <!-- Row 2: Stats and Languages side by side -->
+  <!-- Row 2: Stats and Languages side by side with fixed height, smaller language width -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="tamannak12's Github Stats" 
@@ -46,7 +48,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="tamannak12's Top Languages" 
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamannak12&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
-           height="140px"/>
+           height="192px" style="width: 270px;"/>
     </a>
   </div>
 
@@ -59,6 +61,7 @@
   </p>
 
 </div>
+
 
 ### 🏆 GitHub Contribution Graph
 <picture>
