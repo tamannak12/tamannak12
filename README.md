@@ -69,6 +69,13 @@ Let’s innovate together! 🚀
 
 ---
 
+### **🔗 fetch-tamannakhare**
+A cool **terminal** display inspired by `neofetch`:
+
+```sh
+npx tamannakhare
+```
+
 <p align="center">
   ✨ Thank you for visiting my profile!  
   <br><br>
